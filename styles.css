@@ -294,6 +294,12 @@ main {
   font-weight: 600;
 }
 
+.project-icons {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
 .project-repo {
   color: var(--ink-soft);
   display: grid;
